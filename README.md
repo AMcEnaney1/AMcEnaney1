@@ -1,16 +1,16 @@
-### Hi there 👋
+<div style="display: flex; justify-content: space-between;">
+  <h1>Hi there 👋</h1>
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=amcenaney1&label=Profile%20views&color=0e75b6&style=flat" alt="amcenaney1" />
+  </p>
+</div>
 
-<!--
-**AMcEnaney1/AMcEnaney1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My main project right now is [OceanSatelliteImages](https://github.com/AMcEnaney1/OceanSatelliteImages),
+  a program to aid in the surveying of locations for shellfish farms. It is currently in the
+  very early stages.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amcenaney1&show_icons=true&locale=en&layout=compact" alt="amcenaney1" /></p>
