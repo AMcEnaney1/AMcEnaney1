@@ -7,10 +7,4 @@
 
 ---
 
-## 🔭 What I'm Working On
-
-- My main project right now is [OceanSatelliteImages](https://github.com/AMcEnaney1/OceanSatelliteImages),
-  a program to aid in the surveying of locations for shellfish farms. It is currently in the
-  very early stages.
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amcenaney1&show_icons=true&locale=en&layout=compact" alt="amcenaney1" /></p>
